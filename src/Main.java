@@ -110,7 +110,7 @@ public class Main {
         return true;
     }
 
-    public static boolean checkWin(char c){
+    /*public static boolean checkWin(char c){
         if(map[0][0] == c && map[0][1] == c && map[0][2] == c){
             return true;
         }
@@ -139,7 +139,10 @@ public class Main {
         }
 
         return false;
-    }
+    }*/
+
+
+
 
 
 }
